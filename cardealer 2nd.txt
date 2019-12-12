@@ -1,7 +1,7 @@
 {
-      "Name":"chevrolet chevelle malibu",
-      "Miles_per_Gallon":18,
-      "Cylinders":8,
+      "Name":"chevrolet chevelle",
+      "Miles_per_Gallon":20,
+      "Cylinders":2,
       "Displacement":307,
       "Horsepower":130,
       "Weight_in_lbs":3504,
